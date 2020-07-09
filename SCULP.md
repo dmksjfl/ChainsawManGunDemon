@@ -9,3 +9,4 @@ This is a log of scupting process of Gun Demon.
 5. Armature: At lease the neck and shoulder should be set as joints. And Flexible bone for tail.
 
 ## Log
+- 2020/7/9 Find 3D Human Head Model thanks to [sketchfab](https://sketchfab.com/feed) where one could download many free models.
